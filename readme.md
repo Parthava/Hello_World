@@ -1,8 +1,10 @@
-Light pad is text editing pad.
+# Light-Pad
 
-The files made by light pad are end-to-end encrypted.
+- Light pad is text editing pad.
 
-It has its own extension .ltp.
+- The files made by light pad are end-to-end encrypted.
 
-Only .ltp files are allowed to open and delete.
+- It has its own extension .ltp.
+
+- Only .ltp files are allowed to open and delete.
 
